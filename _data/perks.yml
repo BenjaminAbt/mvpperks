@@ -168,7 +168,7 @@
   description: "If you have any kind of MVP award (Microsoft MVP, Oracle ACE, Embarcadero MVP, ALM rangers, Salesforce MVP etc.) send us a link to your MVP profile, and get a free license. We also ask our MVP customers to write short reviews of advantages and disadvantages of our products."
   products: ["Any"] 
 
-  - company: "Codealike"
+- company: "Codealike"
   uri: "https://codealike.com"
   description: "Sign up to Codealike. Then e-mail or twit to us just saying what your Codealike username and MVP profile page is. Codealike Premium will be free to MVPs forever."
   products: ["Codealike Premium"] 
