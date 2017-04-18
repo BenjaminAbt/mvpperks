@@ -175,5 +175,5 @@
 
 - company: "Codealike"
   uri: "https://codealike.com"
-  description: "Sign up to Codealike. Then e-mail or twit to us just saying what your Codealike username and MVP profile page is. Codealike Premium will be free to MVPs forever."
+  description: "Sign up to Codealike. Then e-mail or send us a tweet just saying what your Codealike username and MVP profile page is. Codealike Premium will be free to MVPs forever."
   products: ["Codealike Premium"] 
